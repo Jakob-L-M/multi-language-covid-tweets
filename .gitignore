@@ -1,0 +1,6 @@
+# dataframes
+*.csv
+*.pkl
+
+# checkpoint files
+.ipynb_checkpoints/
